@@ -1,2 +1,5 @@
 # api_cadastro
-API para cadastro de pessoas (nome, dados detalhados de endereço e telefone).
+
+Status: Em andamento.
+
+Breve descrição: API para cadastro de pessoas (nome, dados detalhados de endereço e telefone).
