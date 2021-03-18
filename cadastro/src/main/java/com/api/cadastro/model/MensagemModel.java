@@ -16,8 +16,15 @@ public class MensagemModel {
 		
 	}
 	
-	public MensagemModel(String mensagem) {
+	public String MensagemModelSucesso(String mensagem) {
 		this.mensagem = mensagem;
+		return mensagem;
 	}
 
+	public String MensagemModelErro(String mensagem) {
+		this.mensagem = mensagem;
+		return mensagem;
+	}
+
+	
 }
